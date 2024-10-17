@@ -172,7 +172,12 @@ task-manager/
 
 ### Screenshots (Optional)
 <picture> <img src="https://github.com/shivalahare/taskManager/blob/main/screenshots/Tm1.png?raw=true"></picture>
-
+<picture> <img src="https://github.com/shivalahare/taskManager/blob/main/screenshots/Tm2.png?raw=true"></picture>
+<picture> <img src="https://github.com/shivalahare/taskManager/blob/main/screenshots/Tm3.png?raw=true"></picture>
+<picture> <img src="https://github.com/shivalahare/taskManager/blob/main/screenshots/Tm4.png?raw=true"></picture>
+<picture> <img src="https://github.com/shivalahare/taskManager/blob/main/screenshots/Tm5.png?raw=true"></picture>
+<picture> <img src="https://github.com/shivalahare/taskManager/blob/main/screenshots/Tm6.png?raw=true"></picture>
+<picture> <img src="https://github.com/shivalahare/taskManager/blob/main/screenshots/Tm7.png?raw=true"></picture>
 ### Contributing
 
 If you would like to contribute to this project:
