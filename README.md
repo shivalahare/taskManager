@@ -170,7 +170,7 @@ task-manager/
    - Navigate to `/accounts/login/` to log in.
    - Sign up at `/accounts/signup/` if you don’t have an account.
 
-### Screenshots (Optional)
+### Screenshots
 <picture> <img src="https://github.com/shivalahare/taskManager/blob/main/screenshots/Tm1.png?raw=true"></picture>
 <picture> <img src="https://github.com/shivalahare/taskManager/blob/main/screenshots/Tm2.png?raw=true"></picture>
 <picture> <img src="https://github.com/shivalahare/taskManager/blob/main/screenshots/Tm3.png?raw=true"></picture>
