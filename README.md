@@ -171,6 +171,7 @@ task-manager/
    - Sign up at `/accounts/signup/` if you don’t have an account.
 
 ### Screenshots (Optional)
+<picture> <img align="right" src="https://github.com/shivalahare/taskManager/blob/main/screenshots/Tm1.png?raw=true"></picture>
 
 ### Contributing
 
