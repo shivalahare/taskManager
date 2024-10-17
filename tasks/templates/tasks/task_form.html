@@ -1,0 +1,11 @@
+{% extends 'base_generic.html' %} 
+{% block title %}Create or Update Task{%endblock %}
+{% block content %}
+<h2>{% if form.instance.pk %}Update Task{% else %}Create Task{% endif %}</h2>
+<form method="post">
+  {% csrf_token %}
+   {{ form.as_p }}
+  <button type="submit" class="btn btn-primary">{% if form.instance.pk %}Update{% else %}Create{% endif %}</button>
+  <a class="btn btn-secondary" href="{% url 'taskList' %}" role="button">Back to Task List</a>
+</form>
+{% endblock %}
