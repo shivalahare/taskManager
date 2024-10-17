@@ -172,13 +172,6 @@ task-manager/
 
 ### Screenshots (Optional)
 
-You can add some screenshots here to give users a visual idea of the UI:
-
-```md
-![Login Page](path/to/login-screenshot.png)
-![Task List](path/to/tasklist-screenshot.png)
-```
-
 ### Contributing
 
 If you would like to contribute to this project:
